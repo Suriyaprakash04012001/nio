@@ -1,0 +1,2 @@
+killall java
+java Server

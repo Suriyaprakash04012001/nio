@@ -1,0 +1,6 @@
+8000 - Upload to server and download files from server 
+(Uploaded Files are stored in ServerFiles Directory and Download files are stored in ClientFilesDirectory)
+8001 - Display the MetaOperation like Which Client Uploads the File , No of Downloads and Client Addresss.
+
+*run a Server(it starts 8000 and 8001)
+*run a Client with argument as port no
